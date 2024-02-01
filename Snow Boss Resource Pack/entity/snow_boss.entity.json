@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "amos:snow_boss",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/snow_boss"
+			},
+			"geometry": {
+				"default": "geometry.snow_boss"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#f8f8f8",
+				"overlay_color": "#7ce7ff"
+			}
+		}
+	}
+}

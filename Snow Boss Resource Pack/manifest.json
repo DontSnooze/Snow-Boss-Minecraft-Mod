@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Snow Boss Pack",
+		"description": "Snow Boss Pack Resource Pack",
+		"uuid": "3f757a74-df95-8cbb-c2d4-9d53a8c8d290",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.3.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Snow Boss Pack",
+			"type": "resources",
+			"uuid": "c2afbb4c-c892-7e20-d4fd-45a94ce8b887",
+			"version": [1, 0, 0]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"minecraft:snow_boss": {
+				"events" : {
+					"death" : "mob.snow_golem.death",
+					"hurt" : "mob.snow_golem.hurt",
+					"shoot" : "mob.blaze.shoot"
+				},
+				"pitch" : [0.8, 1.2],
+				"volume" : 1
+			}
+		}
+	}
+}

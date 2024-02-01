@@ -1,0 +1,8 @@
+{
+  "resource_pack_name": "Snow Boss Resource Pack",
+  "texture_data": {
+    "amos:snow_boss_snowball": {
+      "textures": "textures/items/snow_boss_snowball"
+    }
+  }
+}
